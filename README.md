@@ -1,5 +1,5 @@
 - 👋 Hi there, I'm Adrian - a Data Science undergraduate student at UC San Diego.
 - 🔭 I’m interested in the realm of machine learning, data science/analytics, and data engineering.
-- 🌱 I’m an incoming Data Science Intern at Seagate Technology (Summer 2025)!
+- 🌱 I previously worked as a Data Science Intern @ Seagate Technology (Summer '25)!
 - 📫 How to reach me: adapsay@ucsd.edu, or my [LinkedIn](https://www.linkedin.com/in/adrianapsay/).
-- ⚡ Outside of tech, I love weightlifting, playing the electric guitar, bouldering, and listening to music.
+- ⚡ Outside of tech, I love weightlifting, playing the electric guitar, and listening to music.
