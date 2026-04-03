@@ -1,5 +1,6 @@
 - 👋 Hi there, I'm Adrian - a Data Science undergraduate student at UC San Diego.
-- 🔭 I’m interested in the realm of machine learning, data science/analytics, and data engineering.
+- 💻 I will be attending UC Berkeley as a Master's student in Electrical Engineering & Computer Sciences (EECS), specializing in Computer Systems and AI/ML!
+- 🔭 I’m interested in the realm of machine learning, systems infrastructure, data science/analytics, and data engineering.
 - 🌱 I previously worked as a Data Science Intern @ Seagate Technology (Summer '25)!
 - 📫 How to reach me: adapsay@ucsd.edu, or my [LinkedIn](https://www.linkedin.com/in/adrianapsay/).
 - ⚡ Outside of tech, I love weightlifting, playing the electric guitar, and listening to music.
