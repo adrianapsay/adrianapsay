@@ -1,6 +1,5 @@
 - 👋 Hi there, I'm Adrian!
 - 💻 I am a Master's student in Electrical Engineering & Computer Sciences (EECS), specializing in Computer Systems at UC Berkeley.
-- 🔭 I’m interested in the realm of machine learning, systems infrastructure, and data engineering.
-- 🌱 I previously worked as a Data Science Intern @ Seagate Technology (Summer '25)!
+- 🔭 Interested in machine learning, systems infrastructure, and data engineering.
 - 📫 How to reach me: adrianapsay@berkeley.edu, or my [LinkedIn](https://www.linkedin.com/in/adrianapsay/).
 - ⚡ Outside of tech, I love weightlifting, playing the electric guitar, and listening to music.
